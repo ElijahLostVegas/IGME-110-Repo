@@ -14,4 +14,4 @@
 - Soundcloud - https://soundcloud.com/
 
 ## Misc
-[Swag](https://souleater.fandom.com/wiki/Black%E2%98%86Star)
+[The Star](https://souleater.fandom.com/wiki/Black%E2%98%86Star)
