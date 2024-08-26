@@ -12,6 +12,7 @@
 ## Cool Sites
 - Youtube - https://www.youtube.com/
 - Soundcloud - https://soundcloud.com/
+- [RIT](https://www.rit.edu/) Homepage - https://www.rit.edu/
 
 ## Misc
 [The☆Star](https://souleater.fandom.com/wiki/Black%E2%98%86Star)
