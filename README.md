@@ -8,3 +8,7 @@
 - Green
 - Black
 - Pink
+
+## Cool Sites
+- Youtube - https://www.youtube.com/
+- Soundcloud - https://soundcloud.com/
