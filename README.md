@@ -2,12 +2,12 @@
 
 ---
 
-## Fav Colors
-- Navy Blue
-- Purple
-- Green
-- Black
-- Pink
+## Top 5 Colors
+1. Navy Blue
+2. Purple
+3. Green
+4. Black
+- 5. Pink
 
 ## Cool Sites
 - Youtube - https://www.youtube.com/
