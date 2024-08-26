@@ -7,7 +7,7 @@
 2. Purple
 3. Green
 4. Black
-- 5. Pink
+5. Pink
 
 ## Cool Sites
 - Youtube - https://www.youtube.com/
