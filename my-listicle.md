@@ -26,9 +26,26 @@
    - Alien X
 
 ## Ultimate Alien
-   - Lodestar
-   - Rath
+   - [Lodestar](https://ben10.fandom.com/wiki/Lodestar)
+   - [Rath](https://ben10.fandom.com/wiki/Rath_(Classic))
+   - [Fasttrack](https://ben10.fandom.com/wiki/Fasttrack)
    - Nanomech
-   - Amphibian
    - Water Hazard
-   - Ar
+   - Armodrillo
+   - Terraspin
+   - Amphibian
+   - NRG
+   - Chamalien
+
+## Omniverse
+   - [Shocksquatch](https://ben10.fandom.com/wiki/Shocksquatch)
+   - [Gravattack](https://ben10.fandom.com/wiki/Gravattack)
+   - [Clockwork](https://ben10.fandom.com/wiki/Clockwork)
+   - Crashhopper
+   - Pesky Dust
+   - Bloxx
+   - Jury Rigg
+   - Eatle
+   - Bullfrag
+   - Atomix
+     
