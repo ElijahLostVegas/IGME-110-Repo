@@ -2,7 +2,7 @@
 
 ### Ben 10 Alien Playlists
 ## Classic
-  - [Heatblast](https://ben10.fandom.com/wiki/Heatblast_(Classic))
+  - **[Heatblast](https://ben10.fandom.com/wiki/Heatblast_(Classic))**
   - [Diamondhead](https://ben10.fandom.com/wiki/Diamondhead_(Classic))
   - [XLR8](https://ben10.fandom.com/wiki/XLR8_(Classic))
   - Four Arms
